@@ -2,7 +2,7 @@ import Game, {
     GameSavingData,
     readGameSaving as loadGame,
     writeGameSaving as saveGame,
-  } from "./modules/Game";
+  } from "./modules/game";
   
   console.log("app worked");
   

@@ -1,5 +1,5 @@
 import moment from 'moment';
-import './src/css/style.css';
+import './css/style.css';
 
 import './js/app';
 
